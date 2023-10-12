@@ -1,0 +1,33 @@
+E:\Projects\ASPDOTNET\repos\Test for git\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\ASPDOTNET\repos\Test for git\bin\Debug\net7.0\appsettings.json
+E:\Projects\ASPDOTNET\repos\Test for git\bin\Debug\net7.0\Test for git.exe
+E:\Projects\ASPDOTNET\repos\Test for git\bin\Debug\net7.0\Test for git.deps.json
+E:\Projects\ASPDOTNET\repos\Test for git\bin\Debug\net7.0\Test for git.runtimeconfig.json
+E:\Projects\ASPDOTNET\repos\Test for git\bin\Debug\net7.0\Test for git.dll
+E:\Projects\ASPDOTNET\repos\Test for git\bin\Debug\net7.0\Test for git.pdb
+E:\Projects\ASPDOTNET\repos\Test for git\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\ASPDOTNET\repos\Test for git\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projects\ASPDOTNET\repos\Test for git\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\ASPDOTNET\repos\Test for git\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\ASPDOTNET\repos\Test for git\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\Test for git.csproj.AssemblyReference.cache
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\Test for git.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\Test for git.AssemblyInfoInputs.cache
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\Test for git.AssemblyInfo.cs
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\Test for git.csproj.CoreCompileInputs.cache
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\Test for git.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\Test for git.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\staticwebassets\msbuild.Test for git.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\staticwebassets\msbuild.build.Test for git.props
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Test for git.props
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Test for git.props
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\scopedcss\bundle\Test for git.styles.css
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\Test for git.csproj.CopyComplete
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\Test for git.dll
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\refint\Test for git.dll
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\Test for git.pdb
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\Test for git.genruntimeconfig.cache
+E:\Projects\ASPDOTNET\repos\Test for git\obj\Debug\net7.0\ref\Test for git.dll
